@@ -33,6 +33,7 @@ f)	Dryness
 g)	Skin discoloration
 h)	Redness
 i)	Ulcers
+
 References: 
 1.	Asghar, M. Z., Asghar, M. J., Saqib, S. M., Ahmad, B., & Ahmad, H. (2011). Diagnosis of Skin Diseases using Online Expert System. (October 2015).
 2.	https://www.healthline.com/health/skin-disorders
